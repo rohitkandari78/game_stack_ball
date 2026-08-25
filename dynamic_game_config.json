@@ -1,0 +1,25 @@
+{
+  "ad_btn": "Hot",
+  "id": 25,
+  "icon": "/dynamic_game_stack_ball/icon.jpg",
+  "image": "https://res.cheerfulgames2023.com/sg/res/jpg/7c/c9/74dd7d39b69e4428e8ac97e181a3-iin.jpg?x-oss-process=style/hq",
+  "jump_type": "webview",
+  "jump_info": {
+    "url": "http://127.0.0.1:%d/dynamic_game_stack_ball/index.html"
+  },
+  "publisher": "minigame",
+  "title": "Stack Ball",
+  "category": "Classic",
+  "play": 41408987,
+  "is_horizontal": 0,
+  "banner_info": {
+    "url": "https://res.cheerfulgames2023.com/sg/res/jpg/06/9a/1f11816cd44a8baf1fba22516e80-qb66.jpg?x-oss-process=style/hq"
+  },
+  "vertical_info": {
+    "url": "/dynamic_game_stack_ball/vertical.jpg"
+  },
+  "desc": "Your ball travels like a brick through colored platforms that prevent it from landing, but as soon as you hit a black one, it's game over!",
+  "pictures": [
+    "https://res.cheerfulgames2023.com/sg/res/jpg/7c/c9/74dd7d39b69e4428e8ac97e181a3-iin.jpg?x-oss-process=style/hq"
+  ]
+}
